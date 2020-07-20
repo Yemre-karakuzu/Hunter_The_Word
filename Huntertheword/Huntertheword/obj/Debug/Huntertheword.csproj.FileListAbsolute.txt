@@ -1,0 +1,22 @@
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\bin\Debug\Huntertheword.exe.config
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\bin\Debug\Huntertheword.exe
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\bin\Debug\Huntertheword.pdb
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.csprojResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.Form1.resources
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.HunterTheWord.resources
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.Properties.Resources.resources
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.exe
+C:\Users\EMRE\Desktop\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.pdb
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\bin\Debug\Huntertheword.exe.config
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\bin\Debug\Huntertheword.exe
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\bin\Debug\Huntertheword.pdb
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.csprojAssemblyReference.cache
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.Form1.resources
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.HunterTheWord.resources
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.Properties.Resources.resources
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.exe
+C:\Users\EMRE\Desktop\NOTLAR\2019\Yeni klasör\PPROJE\proje-1-huntertheword\Huntertheword\Huntertheword\obj\Debug\Huntertheword.pdb
